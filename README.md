@@ -15,5 +15,3 @@ This repository contains my personal learning journey, notes, and practice proje
 
 ---
 
-## 📁 Repository Structure
-
