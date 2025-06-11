@@ -10,7 +10,7 @@ This repository contains my personal learning journey, notes, and practice proje
 **Course Name:** Hardware Modeling using Verilog  
 **Instructor:** Prof. Indranil Sengupta (IIT Kharagpur)  
 **Platform:** NPTEL / Swayam  
-**Duration:** July 2025 – October 2025  
+**Duration:** July 2025 – september 2025  
 **Course Link:** https://www.youtube.com/watch?v=NCrlyaXMAn8&list=PLJ5C_6qdAvBELELTSPgzYkQg3HgclQh-5
 
 ---
